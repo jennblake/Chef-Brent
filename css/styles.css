@@ -28,5 +28,8 @@ h2 {
 
 .navbar {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: linear-gradient(90deg, #000000ff, #7c7c7cff, #eee5e9ff);
+    background-image: linear-gradient(90de, #7c7c7cff, #eee5e9ff);
+    position: absolute;
+    right: 0;
 }        
+
